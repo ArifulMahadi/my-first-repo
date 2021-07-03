@@ -1,3 +1,10 @@
 p{
-    color:red;
+    color:rgba(3, 211, 72, 0.877);
+}
+h1{
+    background-color: red;
+}
+h3{
+    color: aqua;
+    background-color: black;
 }
