@@ -1,12 +1,12 @@
 p{
-    color:rgba(3, 211, 72, 0.877);
+    color:rgba(114, 4, 77, 0.801);
 }
 h1{
     background-color: red;
 }
 h3{
-    color: aqua;
-    background-color: black;
+    color: rgba(6, 23, 168, 0.781);
+    background-color: lightslategrey;
 }
 h2{
     color: black;
